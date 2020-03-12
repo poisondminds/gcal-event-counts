@@ -17,6 +17,7 @@ pip install python-dateutil
 ```bash
 python generate_weekly_counts.py <start_date>
 ```
-where `start_date` is in the format `yyyy-mm-dd`.
+where `start_date` is in the format `yyyy-mm-dd`
 
-You'll then get a CSV output that you can do whatever you'd like with. Chart it out in Excel or Google Sheets.
+You'll then get a CSV output that you can do whatever you'd like with. Chart it out in Excel or Google Sheets. Here's my example :)
+![EventTrends](https://i.imgur.com/ACdbLNN.png)
